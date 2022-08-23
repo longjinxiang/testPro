@@ -1,7 +1,7 @@
 const setting = {
   /*page layout related*/
   //sideBar or navbar show title
-  title: 'Vue3 Admin Plus',
+  title: 'file uploader',
   /**
    * @type {boolean} true | false
    * @description Whether show the logo in sidebar
@@ -31,7 +31,7 @@ const setting = {
    * @type {boolean} true | false
    * @description Whether show TagsView
    */
-  showTagsView: true,
+  showTagsView: false,
   /**
    * @description TagsView show number
    */
@@ -46,7 +46,7 @@ const setting = {
    * @type {boolean} true | false
    * @description Whether need animation of main area
    */
-  mainNeedAnimation: true,
+  mainNeedAnimation: false,
   /**
    * @type {boolean} true | false
    * @description Whether need nprogress
